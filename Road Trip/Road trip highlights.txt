@@ -1,0 +1,103 @@
+Here is the list of the landmarks you’d stop at in each state on this road trip:
+
+1. Grand Canyon, AZ
+
+2. Bryce Canyon National Park, UT
+
+3. Craters of the Moon National Monument, ID
+
+4. Yellowstone National Park, WY
+
+5. Pikes Peak, CO
+
+6. Carlsbad Caverns National Park, NM
+
+7. The Alamo, TX
+
+8. The Platt Historic District, OK
+
+9. Toltec Mounds, AR
+
+10. Elvis Presley’s Graceland, TN
+
+11. Vicksburg National Military Park, MS
+
+12. French Quarter, New Orleans, LA
+
+13. USS Alabama, AL
+
+14. Cape Canaveral Air Force Station, FL
+
+15. Okefenokee Swamp Park, GA
+
+16. Fort Sumter National Monument, SC
+
+17. Lost World Caverns, WV
+
+18. Wright Brothers National Memorial Visitor Center, NC
+
+19. Mount Vernon, VA
+
+20. White House, Washington, DC
+
+21. Colonial Annapolis Historic District, MD
+
+22. New Castle Historic District, Delaware
+
+23. Cape May Historic District, NJ
+
+24. Liberty Bell, PA
+
+25. Statue of Liberty, NY
+
+26. The Mark Twain House & Museum, CT
+
+27. The Breakers, RI
+
+28. USS Constitution, MA
+
+29. Acadia National Park, ME
+
+30. Mount Washington Hotel, NH
+
+31. Shelburne Farms, VT
+
+32. Fox Theater, Detroit, MI
+
+33. Spring Grove Cemetery, OH
+
+34. Mammoth Cave National Park, KY
+
+35. West Baden Springs Hotel, IN
+
+36. Abraham Lincoln’s Home, IL
+
+37. Gateway Arch, MO
+
+38. C. W. Parker Carousel Museum, KS
+
+39. Terrace Hill Governor’s Mansion, IA
+
+40. Taliesin, WI
+
+41. Fort Snelling, MN
+
+42. Ashfall Fossil Bed, NE
+
+43. Mount Rushmore, SD
+
+44. Fort Union Trading Post, ND
+
+45. Glacier National Park, MT
+
+46. Hanford Site, WA
+
+47. Columbia River Highway, OR
+
+48. San Francisco Cable Cars, CA
+
+49. San Andreas Fault, CA
+
+50. Hoover Dam, NV
+
+It’s pretty comprehensive, right?
